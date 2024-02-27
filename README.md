@@ -8,7 +8,7 @@ Fique a vontade se não quiser responder todos os itens.
 
 -Edite o arquivo dados.txt;
 
--Crie um repositório no github com o nome aula-git-ebac;
+-Crie um repositório no github com o nome aula-git-tqs;
 
 -Faça o commit em seu repositório do github;
 
