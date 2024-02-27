@@ -4,8 +4,8 @@ Dados do aluno
 -Profissão:
 -Cidade:
 -O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Feedback sobre a disciplina Teste e Qualidade de Software:
+-Feedback sobre a metodologia das aulas da disciplina:
 
 Obrigado!!!
 
