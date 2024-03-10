@@ -4,7 +4,7 @@ Dados do aluno
 -Profissão: Estudante
 -Cidade: Maputo
 -O que faz nas horas vaga: 
--Feedback sobre a disciplina Teste e Qualidade de Software: 
+-Feedback sobre a disciplina Teste e Qualidade de Software: Interessante
 -Feedback sobre a metodologia das aulas da disciplina: Acho boa.
 
 Obrigado!!!
