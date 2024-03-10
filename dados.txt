@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre a disciplina Teste e Qualidade de Software:
--Feedback sobre a metodologia das aulas da disciplina:
+-Primeiro Nome: Duilio 
+-Profissão: Estudante
+-Cidade: Maputo
+-O que faz nas horas vaga: 
+-Feedback sobre a disciplina Teste e Qualidade de Software: 
+-Feedback sobre a metodologia das aulas da disciplina: Acho boa.
 
 Obrigado!!!
 
